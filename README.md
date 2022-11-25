@@ -5,6 +5,7 @@ A tool to detect plasmids and contamination in bacterial and archaeal genome ass
 ### Requirements
 * python 3.7+
 * blast+ 2.10.1+
+* bioseq
 
 ### Installation
 PlasIDome is available on PYPI and can be installed using pip
