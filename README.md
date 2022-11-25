@@ -9,7 +9,7 @@ In bacterial genome assembly, it is important to account for all of the contigs.
 ### Requirements
 * python 3.7+
 * blast+ 2.10.1+
-* bioseq
+* biopython
 
 ### Installation
 PlasIDome is available on PYPI and can be installed using pip
