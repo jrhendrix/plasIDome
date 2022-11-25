@@ -16,10 +16,15 @@ PlasIDome is available on PYPI and can be installed using pip
 As input, PlasIDome takes a genome assembly file in fasta format (.fasta, .fa, .fna).
 
 Example:
+
 ``` plasidome -b path/to/blastn -f genome.fasta ```
 
+
 Examine contigs up to 50,000 bp in length:
+
 ``` plasidome -b path/to/blastn -f genome.fasta -l 50000 ```
 
+
 Extensive Usage:
+
 ``` plasidome -b path/to/blastn -f genome.fasta -p path/to/output -o output_name ```
